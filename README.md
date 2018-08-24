@@ -11,14 +11,16 @@ Temario tentativo:
 - Dia 1
   * Instalar R 
   * RStudio
+  * Help
   * Paquetes
-  * Calculos (sensillos)
+  * Calculos (sencillos)
   * Variables
 - Dia 2 
   * Vectores
   * Matrices
   * Listas
   * Data Frames 
+  * Summary
 - Dia 3
   * For
   * While
@@ -37,4 +39,4 @@ Temario tentativo:
   
   ---
   
-  Luego se meterá la estructura.
+  Luego se meterá la estructura al repositorio.
