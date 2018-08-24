@@ -2,7 +2,7 @@
 Cosas del curso de introducción a R impartido en el semestre de Otoño 2018 en el ITAM.
 
 Para instalar *R* [aquí](https://cran.itam.mx/).
-Para instalar *RStudio* [aquí]([aquí](https://www.rstudio.com/products/rstudio/download/#download).
+Para instalar *RStudio* [aquí](https://www.rstudio.com/products/rstudio/download/#download).
 
 ---
 
