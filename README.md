@@ -2,13 +2,15 @@
 Cosas del curso de introducción a R impartido en el semestre de Otoño 2018 en el ITAM.
 
 Para Windows, OS X o ciertas distribuciones de Linux, este paso es el mismo:
-Para instalar *R* [aquí](https://cran.itam.mx/).
-Para instalar *RStudio* [aquí](https://www.rstudio.com/products/rstudio/download/#download).
 
-Para poder utilizar *RMarkdown* es necesario contar con una distribución TeX.
-Para Windows: [MiXTeX](https://miktex.org/download)
-Para OS X: [MacTeX](http://www.tug.org/mactex/downloading.html)
-En Linux la distribución más común es TeX Live. Platicarlo.
+- Para instalar *R* [aquí](https://cran.itam.mx/).
+- Para instalar *RStudio* [aquí](https://www.rstudio.com/products/rstudio/download/#download).
+
+Para poder utilizar *RMarkdown* es necesario contar con una distribución TeX:
+
+- Para Windows: [MiXTeX](https://miktex.org/download)
+- Para OS X: [MacTeX](http://www.tug.org/mactex/downloading.html)
+- En Linux la distribución más común es TeX Live. Platicarlo.
 
 ---
 
